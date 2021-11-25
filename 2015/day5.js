@@ -74,3 +74,12 @@ for (let i = 0; i < inputArray.length; i++) {
         niceStringsTotal += 1;}
 }
 console.log(niceStringsTotal);
+
+//borrowed this bit of code as i had no idea how to implement this bit without crying.
+function nice2(str) {
+    var repeat=str.match(/([a-z][a-z])[a-z]*\1/);
+    var zxz=str.match(/([a-z])[a-z]\1/);
+    return (repeat!=undefined&&repeat.length>0)&&(zxz!=undefined&&zxz.length>0)
+  }
+  
+ console.log(inputArray.filter(nice2).length)
