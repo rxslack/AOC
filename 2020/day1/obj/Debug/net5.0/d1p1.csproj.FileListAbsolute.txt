@@ -1,0 +1,16 @@
+/home/rxchxelsx/AOC2020/d1p1/bin/Debug/net5.0/d1p1
+/home/rxchxelsx/AOC2020/d1p1/bin/Debug/net5.0/d1p1.deps.json
+/home/rxchxelsx/AOC2020/d1p1/bin/Debug/net5.0/d1p1.runtimeconfig.json
+/home/rxchxelsx/AOC2020/d1p1/bin/Debug/net5.0/d1p1.runtimeconfig.dev.json
+/home/rxchxelsx/AOC2020/d1p1/bin/Debug/net5.0/d1p1.dll
+/home/rxchxelsx/AOC2020/d1p1/bin/Debug/net5.0/ref/d1p1.dll
+/home/rxchxelsx/AOC2020/d1p1/bin/Debug/net5.0/d1p1.pdb
+/home/rxchxelsx/AOC2020/d1p1/obj/Debug/net5.0/d1p1.csprojAssemblyReference.cache
+/home/rxchxelsx/AOC2020/d1p1/obj/Debug/net5.0/d1p1.GeneratedMSBuildEditorConfig.editorconfig
+/home/rxchxelsx/AOC2020/d1p1/obj/Debug/net5.0/d1p1.AssemblyInfoInputs.cache
+/home/rxchxelsx/AOC2020/d1p1/obj/Debug/net5.0/d1p1.AssemblyInfo.cs
+/home/rxchxelsx/AOC2020/d1p1/obj/Debug/net5.0/d1p1.csproj.CoreCompileInputs.cache
+/home/rxchxelsx/AOC2020/d1p1/obj/Debug/net5.0/d1p1.dll
+/home/rxchxelsx/AOC2020/d1p1/obj/Debug/net5.0/ref/d1p1.dll
+/home/rxchxelsx/AOC2020/d1p1/obj/Debug/net5.0/d1p1.pdb
+/home/rxchxelsx/AOC2020/d1p1/obj/Debug/net5.0/d1p1.genruntimeconfig.cache

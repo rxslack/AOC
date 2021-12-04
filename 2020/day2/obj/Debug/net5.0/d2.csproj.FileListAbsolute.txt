@@ -1,0 +1,16 @@
+/home/rxchxelsx/AOC2020/d2/obj/Debug/net5.0/d2.csprojAssemblyReference.cache
+/home/rxchxelsx/AOC2020/d2/obj/Debug/net5.0/d2.GeneratedMSBuildEditorConfig.editorconfig
+/home/rxchxelsx/AOC2020/d2/obj/Debug/net5.0/d2.AssemblyInfoInputs.cache
+/home/rxchxelsx/AOC2020/d2/obj/Debug/net5.0/d2.AssemblyInfo.cs
+/home/rxchxelsx/AOC2020/d2/obj/Debug/net5.0/d2.csproj.CoreCompileInputs.cache
+/home/rxchxelsx/AOC2020/d2/bin/Debug/net5.0/d2
+/home/rxchxelsx/AOC2020/d2/bin/Debug/net5.0/d2.deps.json
+/home/rxchxelsx/AOC2020/d2/bin/Debug/net5.0/d2.runtimeconfig.json
+/home/rxchxelsx/AOC2020/d2/bin/Debug/net5.0/d2.runtimeconfig.dev.json
+/home/rxchxelsx/AOC2020/d2/bin/Debug/net5.0/d2.dll
+/home/rxchxelsx/AOC2020/d2/bin/Debug/net5.0/ref/d2.dll
+/home/rxchxelsx/AOC2020/d2/bin/Debug/net5.0/d2.pdb
+/home/rxchxelsx/AOC2020/d2/obj/Debug/net5.0/d2.dll
+/home/rxchxelsx/AOC2020/d2/obj/Debug/net5.0/ref/d2.dll
+/home/rxchxelsx/AOC2020/d2/obj/Debug/net5.0/d2.pdb
+/home/rxchxelsx/AOC2020/d2/obj/Debug/net5.0/d2.genruntimeconfig.cache
